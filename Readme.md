@@ -1,6 +1,6 @@
 # Accounting Software
 
-An Accounting Software made in python with help of customtkinter(by TomSchimansky) and TKinter scrollable frame (by bhaskar-nair2) 
+An Accounting Software made in python with help of customtkinter(by [TomSchimansky](https://github.com/TomSchimansky/CustomTkinter)) and TKinter scrollable frame (by [bhaskar-nair2](https://gist.github.com/bhaskar-nair2/94b2d4dd511a1cd38ecde9c9481c4b28)) 
 
 ### Features  
 
