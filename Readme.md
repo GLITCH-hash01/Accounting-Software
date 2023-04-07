@@ -2,7 +2,7 @@
 
 An Accounting Software made in python with help of customtkinter(by TomSchimansky) and TKinter scrollable frame (by bhaskar-nair2) 
 
-##Features  
+### Features  
 
 -  Adding customer phone number and name with amount details
 -  Searching details with phone number
