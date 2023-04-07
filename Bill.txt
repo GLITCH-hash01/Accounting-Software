@@ -1,0 +1,9 @@
+			JIBIN MOTOR DRIVING SCHOOL
+		 Kulanada P.O Ph:04734 261800,9947261800
+
+
+Name:{name}		Date:{date}
+Ph  :{phone}		
+
+Total amount paid:{tamnt}
+Balance:{bal}
